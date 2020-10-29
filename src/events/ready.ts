@@ -1,6 +1,6 @@
 import * as Discord from "discord.js";
 
-import * as Logger from "./../utils/Logger";
+import * as Logger from "./../utils/logger";
 
 export default async (Client: Discord.Client) => {
 	Logger.log(`Client is ready and is logged in as ${Client.user.tag}!`);

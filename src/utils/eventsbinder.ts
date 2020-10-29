@@ -1,7 +1,7 @@
 import * as Discord from "discord.js";
 import * as Fs from "fs";
 
-import * as Logger from "./Logger";
+import * as Logger from "./logger";
 
 export async function bind(Client: Discord.Client): Promise<void> {
 	return new Promise<void>((resolve: (value?: void | PromiseLike<void>) => void, reject: (reason?: any) => void): void => {

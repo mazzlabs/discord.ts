@@ -1,7 +1,7 @@
 import * as Discord from "discord.js";
 import * as Fs from "fs";
 
-import * as Logger from "./../utils/Logger";
+import * as Logger from "./../utils/logger";
 
 export default async (Client: Discord.Client, message: Discord.Message) => {
 	if (message.author.bot || !message.guild) {
