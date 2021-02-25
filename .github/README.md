@@ -2,7 +2,7 @@
     <h1>Discord.TS</h1>
     <p>A template made for developers using TypeScript to code their Discord bot 🌠</p>
     <p>
-    <img src="https://travis-ci.com/mazzlabs/discord.ts.svg?branch=main" />
+    <img src="https://github.com/mazzlabs/discord.ts/actions/workflows/nodejs.yml/badge.svg" />
     <img src="https://badges.depfu.com/badges/7a05ef567b52d7289ddd927af4c51c0d/status.svg" />
     <img src="https://badges.depfu.com/badges/7a05ef567b52d7289ddd927af4c51c0d/overview.svg" />
     </p>
